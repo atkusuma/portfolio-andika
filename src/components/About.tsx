@@ -84,7 +84,7 @@ const About = () => {
                 Why Renewable Energy?
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Coming from an Engineering Physics background, I'm passionate about applying 
+                Coming from an Engineering Physics background, Im passionate about applying 
                 my technical skills to create sustainable solutions. My goal is to leverage 
                 technology to contribute to a greener future through efficient and scalable 
                 software systems.
