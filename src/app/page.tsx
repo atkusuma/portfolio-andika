@@ -25,7 +25,7 @@ export default function Home() {
               Get in Touch
             </h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
-              Let's discuss how we can work together on sustainable technology projects
+              Let&apos;s discuss how we can work together on sustainable technology projects
             </p>
           </div>
           {/* Contact form will be added here */}

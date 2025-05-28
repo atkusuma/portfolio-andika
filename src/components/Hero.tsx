@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import Image from 'next/image';
 
 const Hero = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
